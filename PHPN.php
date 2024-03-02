@@ -1,5 +1,5 @@
 <?php
 
-  echo"Teste para github";
+  echo"testando os comandos";
 
   ?>
